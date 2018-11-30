@@ -1,1 +1,3 @@
-<h1><% out.println("난 JSP"); %></h1>
+<?php
+ echo "안녕하세요. PHP";
+?>
